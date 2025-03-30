@@ -1,0 +1,30 @@
+[13-Mar-2025 17:21:41 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$point_of_interaction in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[13-Mar-2025 17:21:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "transaction_data" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[13-Mar-2025 17:21:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "qr_code" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[13-Mar-2025 17:21:41 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$id in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 57
+[13-Mar-2025 17:21:41 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$point_of_interaction in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[13-Mar-2025 17:21:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "transaction_data" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[13-Mar-2025 17:21:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "qr_code_base64" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[14-Mar-2025 10:20:47 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$point_of_interaction in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[14-Mar-2025 10:20:47 America/Sao_Paulo] PHP Warning:  Attempt to read property "transaction_data" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[14-Mar-2025 10:20:47 America/Sao_Paulo] PHP Warning:  Attempt to read property "qr_code" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[14-Mar-2025 10:20:47 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$id in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 57
+[14-Mar-2025 10:20:47 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$point_of_interaction in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[14-Mar-2025 10:20:47 America/Sao_Paulo] PHP Warning:  Attempt to read property "transaction_data" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[14-Mar-2025 10:20:47 America/Sao_Paulo] PHP Warning:  Attempt to read property "qr_code_base64" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[15-Mar-2025 15:14:56 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$point_of_interaction in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[15-Mar-2025 15:14:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "transaction_data" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[15-Mar-2025 15:14:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "qr_code" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[15-Mar-2025 15:14:56 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$id in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 57
+[15-Mar-2025 15:14:56 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$point_of_interaction in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[15-Mar-2025 15:14:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "transaction_data" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[15-Mar-2025 15:14:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "qr_code_base64" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[17-Mar-2025 21:33:16 America/Sao_Paulo] PHP Warning:  Undefined variable $total_carrinhoF in /home2/codig267/public_html/delivery/js/ajax/listar-itens-carrinho.php on line 264
+[17-Mar-2025 21:45:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total_carrinhoF in /home2/codig267/public_html/delivery/js/ajax/listar-itens-carrinho.php on line 264
+[24-Mar-2025 10:53:21 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$point_of_interaction in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[24-Mar-2025 10:53:21 America/Sao_Paulo] PHP Warning:  Attempt to read property "transaction_data" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[24-Mar-2025 10:53:21 America/Sao_Paulo] PHP Warning:  Attempt to read property "qr_code" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 55
+[24-Mar-2025 10:53:21 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$id in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 57
+[24-Mar-2025 10:53:21 America/Sao_Paulo] PHP Warning:  Undefined property: stdClass::$point_of_interaction in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[24-Mar-2025 10:53:21 America/Sao_Paulo] PHP Warning:  Attempt to read property "transaction_data" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
+[24-Mar-2025 10:53:21 America/Sao_Paulo] PHP Warning:  Attempt to read property "qr_code_base64" on null in /home2/codig267/public_html/delivery/js/ajax/pix.php on line 61
